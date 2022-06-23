@@ -12,18 +12,16 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## :wave: About Me
-I'm Nick! 
+I'm Nick and I am a Software Engineer! Taking the leap into web development was the best decision of my life and I can't wait to learn more! Take a look around and feel free to reach out!
 
 ## :round_pushpin: How I got here
 Audio Engineering :arrow_right: Hotel Night Auditor :arrow_right: Customer Service Rep :arrow_right: Regional Sales Rep :arrow_right: Software Engineer
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :star: Fun Facts
+- :airplane: I love to travel! Places I've been: Europe, Japan, Canada, Australia/New Zealand
+- :ramen: Favorite Anime is Steins;Gate!
+- :soccer: Manchester United GGMU!
+
+## :mailbox_with_mail: Let's Connect! 
+[Linkedin](https://www.linkedin.com/in/nick-a-newton/)
+
