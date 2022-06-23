@@ -14,7 +14,7 @@
 ## :wave: About Me
 I'm Nick and I am a Software Engineer. Taking the leap into web development was the best decision of my life and I can't wait to learn more! Take a look around and feel free to reach out.
 
-## :round_pushpin: How I got here
+## :round_pushpin: How I Got Here
 Audio Engineering :arrow_right: Hotel Night Auditor :arrow_right: Customer Service Rep :arrow_right: Regional Sales Rep :arrow_right: Software Engineer
 
 ## :star: Fun Facts
