@@ -1,5 +1,4 @@
-### Hi there 👋
-[banner](https://user-images.githubusercontent.com/99566488/175398085-b12a4d58-4bf1-465c-8a5d-cc048494a2a9.png)
+<img width="997" alt="Screen Shot 2022-06-23 at 1 51 44 PM" src="https://user-images.githubusercontent.com/99566488/175398416-49d01fd1-3e0e-4eaf-9527-e13976694902.png">
 
 ## Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
