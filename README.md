@@ -1,4 +1,4 @@
-<img width="997" alt="Screen Shot 2022-06-23 at 2 05 37 PM" src="https://user-images.githubusercontent.com/99566488/175399756-be362237-56fa-4e70-9e94-434f7478b78b.png">
+<img width="997" alt="Screen Shot 2022-06-23 at 2 06 58 PM" src="https://user-images.githubusercontent.com/99566488/175399906-efb2ff05-0285-4b9d-be4e-decba9cb29cf.png">
 
 
 ## Technologies
