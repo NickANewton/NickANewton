@@ -1,4 +1,5 @@
-<img width="997" alt="Screen Shot 2022-06-23 at 1 51 44 PM" src="https://user-images.githubusercontent.com/99566488/175398416-49d01fd1-3e0e-4eaf-9527-e13976694902.png">
+<img width="997" alt="Screen Shot 2022-06-23 at 2 05 37 PM" src="https://user-images.githubusercontent.com/99566488/175399756-be362237-56fa-4e70-9e94-434f7478b78b.png">
+
 
 ## Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
