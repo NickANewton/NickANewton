@@ -1,7 +1,7 @@
 <img width="997" alt="Screen Shot 2022-06-23 at 2 06 58 PM" src="https://user-images.githubusercontent.com/99566488/175399906-efb2ff05-0285-4b9d-be4e-decba9cb29cf.png">
 
 
-## Technologies
+## :computer: Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -11,7 +11,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+## :wave: About Me
+I'm Nick! 
 
+## :round_pushpin: How I got here
+Audio Engineering :arrow_right: Hotel Night Auditor :arrow_right: Customer Service Rep :arrow_right: Regional Sales Rep :arrow_right: Software Engineer
 
 <!--
 - 🔭 I’m currently working on ...
